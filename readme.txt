@@ -5,3 +5,4 @@ Git tracks changes of files.
 12345678
 910111
 Creating a new branch is quick adAnd simlpe.
+switched to a new branch "dev"
